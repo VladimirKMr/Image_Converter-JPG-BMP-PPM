@@ -1,0 +1,4 @@
+﻿  jpeg.lib(jerror.obj) : найден .netmodule MSIL или модуль, откомпилированный с параметром /GL; перезапускается компоновка с параметром /LTCG; добавьте /LTCG в командную строку компоновки для повышения производительности компоновщика
+  Создание кода
+  Создание кода завершено
+  imgconv.vcxproj -> D:\CODE\6_Portfolio\3_IMG_Converter\ImgConverter\build\Release\imgconv.exe

@@ -1,0 +1,10 @@
+^D:\CODE\6_PORTFOLIO\3_IMG_CONVERTER\IMGCONVERTER\BUILD\CMAKEFILES\F3C85763A78ACA64272B386A116F0235\GENERATE.STAMP.RULE
+setlocal
+C:\dev\mingw64\bin\cmake.exe -SD:/CODE/6_Portfolio/3_IMG_Converter/ImgConverter -BD:/CODE/6_Portfolio/3_IMG_Converter/ImgConverter/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file D:/CODE/6_Portfolio/3_IMG_Converter/ImgConverter/build/Negate.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

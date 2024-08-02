@@ -1,0 +1,5 @@
+D:/CODE/6_Portfolio/3_IMG_Converter/ImgConverter/build/CMakeFiles/imgconv.dir
+D:/CODE/6_Portfolio/3_IMG_Converter/ImgConverter/build/CMakeFiles/ALL_BUILD.dir
+D:/CODE/6_Portfolio/3_IMG_Converter/ImgConverter/build/CMakeFiles/ZERO_CHECK.dir
+D:/CODE/6_Portfolio/3_IMG_Converter/ImgConverter/build/ImgLibBuildDir/CMakeFiles/ImgLib.dir
+D:/CODE/6_Portfolio/3_IMG_Converter/ImgConverter/build/ImgLibBuildDir/CMakeFiles/ALL_BUILD.dir
