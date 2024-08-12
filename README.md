@@ -8,6 +8,7 @@
 - Поместить изображение в директорию, где расположен исполняемый файл
 - Следовать указаниям в программе. Пример работы:
 
+<img src="https://raw.githubusercontent.com/VladimirKMr/Image_Converter-JPG-BMP-PPM/main/screens/main.png"/>
 
 ## Сборка
 
